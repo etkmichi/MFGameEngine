@@ -1,0 +1,17 @@
+/*
+ * MFObjectSpawnSetup.h
+ *
+ *  Created on: 05.11.2020
+ *      Author: michl
+ */
+
+#ifndef MFSCENEACTIONS_MFSPAWNACTIONS_MFOBJECTSPAWNER_MFOBJECTSPAWNSETUP_H_
+#define MFSCENEACTIONS_MFSPAWNACTIONS_MFOBJECTSPAWNER_MFOBJECTSPAWNSETUP_H_
+
+class MFObjectSpawnSetup {
+public:
+  MFObjectSpawnSetup();
+  virtual ~MFObjectSpawnSetup();
+};
+
+#endif /* MFSCENEACTIONS_MFSPAWNACTIONS_MFOBJECTSPAWNER_MFOBJECTSPAWNSETUP_H_ */
